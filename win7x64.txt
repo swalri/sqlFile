@@ -1,0 +1,4 @@
+vmware_v17
+ko_win7_pro_k_with_ie9_fix1206_sp1_x86_x64.iso
+OracleXE112_Win64.zip
+sqldeveloper-20.4.1.407.0006-x64.zip
